@@ -1,6 +1,6 @@
 # web-dev
 
-	               SCALABILITY    PERFORMANCE    SPEED       SECURITY     CUSTOMIZABILITY      COST EFFICIENT    RAPID DEVELOPMENT
+SCALABILITY    PERFORMANCE    SPEED       SECURITY     CUSTOMIZABILITY      COST EFFICIENT    RAPID DEVELOPMENT
                
 NODE JS        5              4              4           4            5                    4                 4
 --------
