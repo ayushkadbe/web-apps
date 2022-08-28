@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 80%;
+    background-color: rgb(166, 158, 236);
+    padding: 34px;
+    margin: auto;
+}
+
+.container h1, p{
+    text-align: center;
+}
+
+input, textarea{
+    font-size: 18px;
+    margin: 6px;
+    padding: 10px;
+    width: 80%;
+    border: 10px;
+    border-radius: 37px;
+    
+}
+
+form{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    background-color: #6731e9;
+    color: white;
+    padding: 7px 10px;
+    font-size: 23px;
+    border: 2px white;
+    border-radius: 34px;
+}
