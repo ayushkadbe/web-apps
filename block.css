@@ -1,3 +1,9 @@
 body {
-  height: 200px;
+  height: 400px;
+
+  weight: auto;
+}
+div {
+  height: 400px;
+  weight: auto;
 }
