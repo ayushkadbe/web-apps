@@ -1,9 +1,5 @@
-body {
-  height: 400px;
-
-  weight: auto;
-}
-div {
-  height: 400px;
-  weight: auto;
+#coinmarketcap-widget-coin-price-block {
+  height: auto !important;
+  width: 100% !important;
+  max-width: 360px;
 }
